@@ -34,4 +34,4 @@ Et lite og minimalistisk prosjekt laget kun med **HTML, CSS og JavaScript**
 git clone git@github.com:bmq0825/todo-app_js.git
 ```
 
-Åpne `src/index.html` i nettleseren. Ingen bygging kreves.
+Åpne `index.html` i nettleseren. Ingen bygging kreves.
