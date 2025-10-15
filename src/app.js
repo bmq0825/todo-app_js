@@ -140,6 +140,7 @@ class Todo {
 
   deleteItem(id) {
     this.state.items = this.state.items.filter(item => item.id !== id);
+    this.state.filteredItems = this.state.filteredItems.filter(item => item.id !== id);
 
     this.saveItemsToLS();
     this.render();
